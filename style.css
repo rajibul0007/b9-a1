@@ -173,7 +173,7 @@ p{
 .offer-section{
     display: flex;
     align-items: center;
-    gap: 80px;
+    gap: 60px;
     margin-top: 80px;
 }
 .offer-section > div {
@@ -200,4 +200,8 @@ p{
 }
 .offer-img img{
     width: 100%;
+}
+.offer-another-content h2{
+    font-size: 40px;
+    color: #FF0000;
 }
