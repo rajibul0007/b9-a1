@@ -4,7 +4,6 @@ body {
     margin: 0 auto;
     padding: 0 50px;
     max-width: 1320px;
-    width: 100%;
     font-family: "Inter", sans-serif;
     font-weight: 400;
 }
@@ -142,7 +141,7 @@ p{
 .event-section{
     margin-top: 80px;
     background: linear-gradient(to bottom, rgba(255, 231, 231, 1) 0%, rgba(0, 0, 0, 0) 100%);
-    min-height: 300px;
+    min-height: 250px;
     border-radius: 15px;
     padding: 50px;
     display: flex;
@@ -169,4 +168,36 @@ p{
     border-radius: 50px;
     margin-top: 30px;
     cursor: pointer;
+}
+
+.offer-section{
+    display: flex;
+    align-items: center;
+    gap: 80px;
+    margin-top: 80px;
+}
+.offer-section > div {
+    flex: 1;
+}
+.offer-content{
+}
+.offer-content h4{
+    font-size: 20px;
+    color: #FF0000;
+    font-family: inter;
+    font-weight: 500;
+}
+.offer-content h2{
+    font-size: 40px;
+}
+.offer-content p{
+}
+.offer-img{
+    width: 100%;
+    border: 10px solid #FF0000;
+    border-radius: 100%;
+    padding: 20px;
+}
+.offer-img img{
+    width: 100%;
 }
