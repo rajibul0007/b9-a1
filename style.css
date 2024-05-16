@@ -23,7 +23,7 @@ p{
 }
 .banner{
     position: relative;
-    background: url('/resources/Banner\ Image.png');
+    background: url('/resources/banner-image.png');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
@@ -90,7 +90,7 @@ p{
 }
 .welcome-section{
     position: relative;
-    background: url('/resources/Vectorrr.png');
+    background: url('/resources/vectorrr.png');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
