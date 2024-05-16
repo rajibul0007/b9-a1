@@ -23,7 +23,7 @@ p{
 }
 .banner{
     position: relative;
-    background-image: url('/resources/banner-image.png');
+    background: url('/resources/banner-image.png');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
